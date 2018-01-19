@@ -8,6 +8,8 @@ permalink: projects/minesweeper
 date: 2018-01-18
 labels:
   - Java
+  - Learning
+  - Group
 summary: My team developed a minesweeper game for a 211 class. 
 ---
 
