@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/cubic.png
-title: Vacay
-permalink: projects/vacay
+title: Cubic
+permalink: projects/cubic
 # All dates must be YYYY-MM-DD format!
 date: in progress
 labels:
