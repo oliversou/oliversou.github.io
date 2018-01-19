@@ -25,24 +25,14 @@
         "username": "oliversou",
         "url": "https://www.linkedin.com/in/oliver-sou-b895a211a/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "music",
+      "name": "cyber security",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "cyber",
+        "security"
       ]
     },
     {
