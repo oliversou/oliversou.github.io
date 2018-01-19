@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/farm.png
-title: Farms
-permalink: projects/farms
+image: images/farm.jpg
+title: Farm
+permalink: projects/farm
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-18
 labels:
