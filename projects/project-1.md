@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/mineconfusion.jpg
 title: Minesweeper
-permalink: projects/micromouse
+permalink: projects/minesweeper
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-18
 labels:
