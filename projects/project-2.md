@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cubic.png
+image: images/cubic.jpg
 title: Cubic
 permalink: projects/cubic
 # All dates must be YYYY-MM-DD format!
@@ -11,13 +11,12 @@ labels:
   - Puzzle
   - Development
   - Hackathon
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A 3d model of a 4x4 tic-tac-toe game.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/cubic.jpg">
 
-Cubic also know as 4x4 tic-tac-toe is a game created on unity. Created for AT&T annual Hackathon
+Cubic also know as 4x4 tic-tac-toe is a game was created on unity for AT&T annual Hackathon.
 
 Still under progress...
- 
-#Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+
