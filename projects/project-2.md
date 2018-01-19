@@ -5,7 +5,7 @@ image: images/cubic.jpg
 title: Cubic
 permalink: projects/cubic
 # All dates must be YYYY-MM-DD format!
-date: in progress
+date: 2018-01-18
 labels:
   - Game
   - Puzzle
