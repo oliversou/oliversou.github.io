@@ -22,6 +22,6 @@ Although I am not the greatest of all students, learning new things about techno
 
 I am now starting to take security classes. I hope to learn a lot through my time at UHM, but I know it will be just the beginning. 
 
-<img class="ui tiny left circular floated image" src="../images/software-code.jpg">
+
 
 
