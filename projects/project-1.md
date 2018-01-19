@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/mineconfusion.jpg
-title: Micromouse
+title: Minesweeper
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-18
