@@ -14,6 +14,8 @@ labels:
 
 <img class="ui medium left floated image" src="../images/javascript.jpg">
 
+
+
 ## As a Tool
 
 "Javascript", at first glance seems to be a very scary thing. However, who would of thought that appending "-script" to
