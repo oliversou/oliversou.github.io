@@ -15,8 +15,15 @@ summary: My team developed a minesweeper game for a 211 class.
 
 Group members: Ethan Chow and Justin Kam
 
- <img class="ui image" src="../images/ms1.PNG">
+
+<center>
+  <div class="ui medium rounded images">
+<img class="ui image" src="../images/ms1.PNG">
  <img class="ui image" src="../images/ms2.PNG">
+  </div>
+  <figcaption>1)Early stage of the app    2)Final OCR view.</figcaption>
+</center>
+ 
  
 Minesweeper is a game of chance and guessing. Maybe to the unskilled and first time players it is. 
 However, with this source code created by me and my group you will understand how it works, and possibly make it better.
