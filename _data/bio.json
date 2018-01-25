@@ -90,36 +90,36 @@
       "website": "http://manoa.hawaii.edu/chineseflagship/",
       "startDate": "2016-08-21",
       "endDate": "2017-05-15",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Office position",
       "highlights": [
         "Help catalog and maintain the Chinese Language Flagship Program's developing library",
         "Assist with office tasks such as filing, answering phones, making copies, scanning, running errands, scheduling, inventory and helping with events as needed."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "Aloun Farms",
+      "position": "Sales Assistant",
+      "website": "http://www.alounfarms.com/",
       "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Manage and run stand at KCC farmer's market",
+        "Creating a database system, under Microsft Access, to create a more fit and balance system of organizing planting and harvest plans"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Ka Papa Loʻi ʻO Kānewai",
+      "website": "http://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
+      "position": "Student Volunteer",
+      "startDate": "2017-12-02",
+      "endDate": "",
+      "summary": "Volunteer clean up and agriculture work",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Learning about ecological system of taro farming",
+        "Working and communicating with other students on safe keeping agricutlure practices in a safe manner"
       ]
     },
     {
@@ -138,17 +138,11 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Chinese Language Speech Contest for Hawai'i Students Award: 3rd Place",
+      "date": "April 17, 2016",
+      "awarder": "Confucius Institute at the University of Hawaii at Manoa",
+      "summary": "This is an annual Chinese language speech competition held annually with the Language program at UHM."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
