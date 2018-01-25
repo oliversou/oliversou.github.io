@@ -25,7 +25,7 @@ For example:
 
 <pre>
 	void Java {
-		construcotr(int status, int update){
+		constructor(int status, int update){
     ...
     }
 	}
