@@ -21,7 +21,6 @@ Group members: Ethan Chow and Justin Kam
 <img class="ui image" src="../images/ms1.PNG">
  <img class="ui image" src="../images/ms2.PNG">
   </div>
-  <figcaption>1)Early stage of the app    2)Final OCR view.</figcaption>
 </center>
  
  
