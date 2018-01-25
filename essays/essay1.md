@@ -12,7 +12,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium right floated rounded image" src="../images/first.png">
+<img class="ui large left floated rounded image" src="../images/first.png">
 
 Highschool felt like the start of my education. It was certainly the only time I could remember being challenged not for the sake of parents but to be able to compete with several 100 of other classmates. In such a situation, I took part in a lot of clubs, took AP classes, also did sports. However, it didn't felt enough. 
 
