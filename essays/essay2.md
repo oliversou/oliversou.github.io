@@ -12,7 +12,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/javascript.png">
+<img class="ui tiny left circular floated image" src="../images/javascript.jpg">
 
 ## As a Tool
 
