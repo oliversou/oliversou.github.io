@@ -23,7 +23,7 @@ Asking questions is all in the process of learning, however as software engineer
 
 A closer look of how formulating questions are important can be observed in the website, StackOverflow, where we can observe how asking the right questions can help the programmer. (Stack Overflow also has a guideline in helping to form a “good”/”smart” question.)
 
-An example: How do I make my swap function in java if there is no method by which we can pass by reference? Could somebody give me a code?The change wont be reflected back since java passes by value
+semi-bad example: How do I make my swap function in java if there is no method by which we can pass by reference? Could somebody give me a code?The change wont be reflected back since java passes by value
  
 <pre>
 with given code 
@@ -36,6 +36,40 @@ swap(int a, int b)
 }
 </pre>
 A fairly simple question for the beginner programmer.However, never really clearly states the purpose, thus making people who are trying to help to potentially ask him/her questions.
+
+good example: Let's say I have a simple binary tree node class, like so: (a statement where he introduces his/her code) How would I add a method which is able to recursively traverse through any size tree, visiting each and every existing node from left to right, without revisiting a node that has already been traversed?
+
+<pre>
+public class BinaryTreeNode {
+    public String identifier = "";
+    public BinaryTreeNode parent = null;
+    public BinaryTreeNode left = null;
+    public BinaryTreeNode right = null;
+
+    public BinaryTreeNode(BinaryTreeNode parent, String identifier)
+    {
+        this.parent = parent; //passing null makes this the root node
+        this.identifier = identifier;
+    }
+
+    public boolean IsRoot() {
+        return parent == null;
+    }
+}
+
+Also supplying trial code by asking "Would this work?"
+
+public void traverseFrom(BinaryTreeNode rootNode)
+{
+    /* insert code dealing with this node here */
+
+    if(rootNode.left != null)
+        rootNode.left.traverseFrom(rootNode.left);
+
+    if(rootNode.right != null)
+        rootNode.traverseFrom(rootNode.right);
+}
+</pre>
 
 Given any situation, asking the right questions not only saves a lot of time for everyone, but also it is very sincere gesture, especially when the person with a question takes the time to fully understand the problem, rather than to ask the first thing that comes to the person's head.
 
