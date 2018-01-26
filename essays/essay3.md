@@ -34,13 +34,8 @@ swap(int a, int b)
      a = b;
      b = temp;
 }
-
-A fairly simple question for the beginner programmer.
-However, never really clearly states the purpose, 
-thus making people who are trying to help to 
-potentially ask him/her questions. 
-
 </pre>
+A fairly simple question for the beginner programmer.However, never really clearly states the purpose, thus making people who are trying to help to potentially ask him/her questions.
 
 Given any situation, asking the right questions not only saves a lot of time for everyone, but also it is very sincere gesture, especially when the person with a question takes the time to fully understand the problem, rather than to ask the first thing that comes to the person's head.
 
