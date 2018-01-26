@@ -35,7 +35,10 @@ swap(int a, int b)
      b = temp;
 }
 
-A fairly simple question for the beginner programmer. However, never really clearly states the purpose, thus making people who are trying to help to potentially ask him/her questions. 
+A fairly simple question for the beginner programmer.
+However, never really clearly states the purpose, 
+thus making people who are trying to help to 
+potentially ask him/her questions. 
 
 </pre>
 
