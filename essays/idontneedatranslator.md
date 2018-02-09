@@ -11,7 +11,7 @@ labels:
   - Intellij
 ---
 
-<img class="ui large middle floated image" src="../images/codereview.jpg">
+<img class="ui large middle image" src="../images/codereview.jpg">
 
 ## Coding Standards are useful
 This may or not apply to some people but in actuallity, coding standards are very useful for the sake of readability.
