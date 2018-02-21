@@ -30,20 +30,15 @@
   "interests": [
     {
       "name": "cyber security",
-      "keywords": [
-        "",
-        ""
-      ]
+      "keywords": []
     },
     {
       "name": "game developing",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
+      "name": "front-end web design",
+      "keywords": []
     }
   ],
   "skills": [
@@ -55,8 +50,8 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "SQL",
+        "Python"
       ]
     },
     {
@@ -66,8 +61,7 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "vi editior"
       ]
     }
   ],
@@ -79,8 +73,12 @@
       "startDate": "2015-08-21",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": [ Algorithms, 
+                  Machine Level and System Programming, 
+                  Software Engineering, 
+                  Data Storage and Retrieval, 
+                  Security and Trust
+                 ]
     }
   ],
   "work": [
