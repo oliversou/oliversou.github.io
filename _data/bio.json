@@ -68,17 +68,33 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2015-08-21",
       "endDate": "Present",
       "gpa": "",
-      "courses": [ Algorithms, 
-                  Machine Level and System Programming, 
-                  Software Engineering, 
-                  Data Storage and Retrieval, 
-                  Security and Trust
+      "courses": [ "Algorithms", 
+                  "Machine Level and System Programming", 
+                  "Software Engineering", 
+                  "Data Storage and Retrieval", 
+                  "Security and Trust"
                  ]
+    }
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Chinese (expected Spring, 2020)",
+      "studyType": "B.A.",
+      "startDate": "2015-08-21",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [ "Selected Readings in Chinese", 
+                   "Intermediate Mandarin Conversation", 
+                   "Elementary Chinese Lesson"
+                 ]
+      "study abroad": [ "Indiana State study abroad",
+                        "National Taiwan Univeristy 400 level course"
+                      ]
+                      
     }
   ],
   "work": [
