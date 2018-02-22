@@ -63,10 +63,12 @@
         "SQL",
         "Python" 
         ]
-    }
+	}
 	],  
-[
+	[
+	
 	{
+	
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
@@ -75,8 +77,11 @@
         "Git/GitHub",
         "vi editior"
        ]
-    }
-	]
+	 }
+	 ],
+	 
+    
+	
   
   "education": [
     {
