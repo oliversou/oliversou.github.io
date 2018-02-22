@@ -6,8 +6,9 @@
     "email": "osou@hawaii.edu",
     "phone": "808-260-5849",
     "website": "https://osou.github.io",
-    "summary": "I am studying for a double major for a B.S. in Computer Science in the Department of Information and Computer Sciences and a B.A in Chinese at the University of Hawaii. I expect to graduate in Spring, 2020.",
-   "location": {
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    
+	"location": {
       "address": "91-1493 Wahane St.",
       "postalCode": "96707",
       "city": "Kapolei",
@@ -50,7 +51,7 @@
 	],
 	
 	
-	  "skills": [
+  "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
@@ -75,6 +76,7 @@
       ]
     }
   ],
+	 
 	 
     
 	
