@@ -1,3 +1,4 @@
+
 {
   "basics": {
     "name": "Molly Maluhia",
@@ -80,106 +81,84 @@
       ]
     }
   ],
-	 
-    
-	
-  
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2015-08-21",
+      "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [ "Algorithms", 
-                  "Machine Level and System Programming", 
-                  "Software Engineering", 
-                  "Data Storage and Retrieval", 
-                  "Security and Trust"
-                 ]
-    }
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Chinese (expected Spring, 2020)",
-      "studyType": "B.A.",
-      "startDate": "2015-08-21",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [ "Selected Readings in Chinese", 
-                   "Intermediate Mandarin Conversation", 
-                   "Elementary Chinese Lesson"
-                 ],
-      "study abroad": [ "Indiana State study abroad",
-                        "National Taiwan Univeristy 400 level course"
-                      ]
-                      
+      "courses": [
+      ]
     }
   ],
   "work": [
     {
-      "company": "University of Hawaii at Manoa Chinese Language Flagship",
-      "position": "Chinese Language Flagship Program Assistant",
-      "website": "http://manoa.hawaii.edu/chineseflagship/",
-      "startDate": "2016-08-21",
-      "endDate": "2017-05-15",
-      "summary": "Office position",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Help catalog and maintain the Chinese Language Flagship Program's developing library",
-        "Assist with office tasks such as filing, answering phones, making copies, scanning, running errands, scheduling, inventory and helping with events as needed."
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "Aloun Farms",
-      "position": "Sales Assistant",
-      "website": "http://www.alounfarms.com/",
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
-      "endDate": "Present",
+      "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Manage and run stand at KCC farmer's market",
-        "Creating a database system, under Microsft Access, to create a more fit and balance system of organizing planting and harvest plans"
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Ka Papa Loʻi ʻO Kānewai",
-      "website": "http://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
-      "position": "Student Volunteer",
-      "startDate": "2017-12-02",
-      "endDate": "",
-      "summary": "Volunteer clean up and agriculture work",
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Learning about ecological system of taro farming",
-        "Working and communicating with other students on safe keeping agricutlure practices in a safe manner"
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "UHM GreyHats",
-      "website": "https://github.com/uhmgreyhats/",
-      "position": "member",
-      "startDate": "Fall 2015",
-      "endDate": "Present",
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
-        "Participant in the National Cyber Leage 2017",
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Chinese Language Speech Contest for Hawai'i Students Award: 3rd Place",
-      "date": "April 17, 2016",
-      "awarder": "Confucius Institute at the University of Hawaii at Manoa",
-      "summary": "This is an annual Chinese language speech competition held annually with the Language program at UHM."
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "National Taiwan University International Chinese Language Institute perfect attendance award",
-      "date": "Summer 2017",
-      "awarder": "National Taiwan University",
-      "summary": "Perfect attendance award in the International Chinese Language Program (ICLP)"
-    },
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
   ],
   "references": [
     {
