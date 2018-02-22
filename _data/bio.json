@@ -55,6 +55,7 @@
         ]
       }
    ],  
+  {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
@@ -64,6 +65,7 @@
         "vi editior"
         ]
     }
+}
   
   "education": [
     {
