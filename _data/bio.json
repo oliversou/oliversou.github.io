@@ -51,10 +51,10 @@
         "Java",
         "Javascript",
         "SQL",
-        "Python"
-      ],
+        "Python"   
     },
-    {
+   ],  
+      {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
@@ -62,9 +62,9 @@
         "Ubuntu",
         "Git/GitHub",
         "vi editior"
-      ],
+        ]
     }
-  ],
+  
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
