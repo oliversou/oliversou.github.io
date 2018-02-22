@@ -64,7 +64,7 @@
         "Python" 
         ]
 	}
-	],  
+	{
 	
       "name": "Toolsets/OS",
       "level": "",
@@ -73,7 +73,9 @@
 		"Ubuntu",
         "Git/GitHub",
         "vi editior"
-      ]
+		}
+      ],
+	]
 	 
 	 
 	 
