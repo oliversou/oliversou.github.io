@@ -52,7 +52,7 @@
         "Javascript",
         "SQL",
         "Python"
-      ]
+      ],
     },
     {
       "name": "Toolsets/OS",
@@ -137,16 +137,14 @@
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "UHM GreyHats",
+      "website": "https://github.com/uhmgreyhats/",
+      "position": "member",
+      "startDate": "Fall 2015",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Participant in the National Cyber Leage 2017",
       ]
     }
   ],
@@ -156,6 +154,12 @@
       "date": "April 17, 2016",
       "awarder": "Confucius Institute at the University of Hawaii at Manoa",
       "summary": "This is an annual Chinese language speech competition held annually with the Language program at UHM."
+    },
+    {
+      "title": "National Taiwan University International Chinese Language Institute perfect attendance award",
+      "date": "Summer 2017",
+      "awarder": "National Taiwan University",
+      "summary": "Perfect attendance award in the International Chinese Language Program (ICLP)"
     },
   ],
   "references": [
