@@ -51,8 +51,9 @@
         "Java",
         "Javascript",
         "SQL",
-        "Python"   
-    },
+        "Python" 
+        ]
+      }
    ],  
       {
       "name": "Toolsets/OS",
