@@ -66,9 +66,6 @@
 	}
 	],  
 	
-	
-	{
-	
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
@@ -76,8 +73,8 @@
 		"Ubuntu",
         "Git/GitHub",
         "vi editior"
-       ]
-	 }
+      ]
+	 
 	 
 	 
     
