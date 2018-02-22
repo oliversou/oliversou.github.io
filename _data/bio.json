@@ -1,56 +1,60 @@
 {
   "basics": {
-    "name": "Oliver Sou",
+    "name": "Molly Maluhia",
     "label": "Student",
-    "picture": "https://oliversou.github.io/images/oliversou.jpg",
-    "email": "osou@hawaii.edu",
-    "phone": "808-260-5849",
-    "website": "https://osou.github.io",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
-    
-	"location": {
-      "address": "91-1493 Wahane St.",
-      "postalCode": "96707",
-      "city": "Kapolei",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
-    
-	"profiles": 
-	[
+    "profiles": [
       {
         "network": "github",
-        "username": "oliversou",
-        "url": "http://github.com/oliversou"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
-      
-	  {
+      {
         "network": "linkedin",
-        "username": "oliversou",
-        "url": "https://www.linkedin.com/in/oliver-sou-b895a211a/"
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
       }
-	]
-	},
-	
-	
-	"interests": [
-	{
-      "name": "cyber security",
-      "keywords": []
-    },
-	
+    ]
+  },
+  "interests": [
     {
-      "name": "game developing",
-      "keywords": []
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
     },
-	
     {
-      "name": "front-end web design",
+      "name": "data mining",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "artificial intelligence",
       "keywords": []
     }
-	],
-	
-	
+  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
@@ -76,7 +80,6 @@
       ]
     }
   ],
-	 
 	 
     
 	
