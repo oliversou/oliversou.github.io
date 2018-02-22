@@ -7,42 +7,52 @@
     "phone": "808-260-5849",
     "website": "https://osou.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
-    "location": {
+    
+	"location": {
       "address": "91-1493 Wahane St.",
       "postalCode": "96707",
       "city": "Kapolei",
       "countryCode": "USA",
       "region": "Hawaii"
     },
-    "profiles": [
+    
+	"profiles": 
+	[
       {
         "network": "github",
         "username": "oliversou",
         "url": "http://github.com/oliversou"
       },
-      {
+      
+	  {
         "network": "linkedin",
         "username": "oliversou",
         "url": "https://www.linkedin.com/in/oliver-sou-b895a211a/"
       }
-    ]
-  },
-  "interests": [
-    {
+	]
+	},
+	
+	
+	"interests": [
+	{
       "name": "cyber security",
       "keywords": []
     },
+	
     {
       "name": "game developing",
       "keywords": []
     },
+	
     {
       "name": "front-end web design",
       "keywords": []
     }
-  ],
-  "skills": [
-    {
+	],
+	
+	
+	"skills": [
+	{
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
@@ -53,18 +63,20 @@
         "SQL",
         "Python" 
         ]
-      }
-   ],  
-  {
+    }
+	],  
+[
+	{
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+		"MacOS",
+		"Ubuntu",
         "Git/GitHub",
         "vi editior"
-        ]
+       ]
     }
+	]
   
   "education": [
     {
