@@ -11,7 +11,7 @@ labels:
   - Website
 ---
 
-<img class="left floated image" src="../images/semanticUI.png">
+<img class="small left floated image" src="../images/semanticUI.png">
 
 ## It's A Glorified Tool
 When I was first introduced to Semantic UI, I thought it was nothing more but a glorified styler, a tool to fix up margins, add paddings, a help to arrange menu items, etc. After spending some time and working with it for a while, i noticed all the subtle benefits that comes when learning this framework. 
