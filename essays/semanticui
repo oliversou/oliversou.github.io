@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: 
-date: 2018-02-08
+date: 2018-02-22
 labels:
   - Semantic UI
   - JavaScript
@@ -16,8 +16,7 @@ labels:
 
 
 ## Coding Standards are useful
-This may or not apply to some people but in actuallity, coding standards are very useful for the sake of readability.
-Commonly seen in:
+When I was first introduced in Semantic UI, I thought it was nothing much but a glorified styler, to fix up margins, add paddings, etc.
 
 1. Coding Conventions -  guidelines for a specific programming language that recommend programming style, practices, and methods for each aspect of a program written in that language. (wiki)
 2. Commenting - clear and succninct message that help describe a line or chunk of code.
