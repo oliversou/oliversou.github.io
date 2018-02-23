@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: Little Helper
+# All dates must be YYYY-MM-DD format!
 date: 2018-02-22
 labels:
   - Semantic UI
@@ -10,10 +11,7 @@ labels:
   - Website
 ---
 
-<div align="middle">
-  <img class="ui image" src="../images/semanticUI.jpg" >
-</div>
-
+<img class="ui large left floated rounded image" src="../images/semanticUI.jpg">
 
 ## It's A Glorified Tool
 When I was first introduced to Semantic UI, I thought it was nothing more but a glorified styler, a tool to fix up margins, add paddings, a help to arrange menu items, etc. After spending some time and working with it for a while, i noticed all the subtle benefits that comes when learning this framework. 
