@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: Little Helper
 date: 2018-02-22
 labels:
   - Semantic UI
@@ -15,58 +15,36 @@ labels:
 </div>
 
 
-## Coding Standards are useful
-When I was first introduced in Semantic UI, I thought it was nothing much but a glorified styler, to fix up margins, add paddings, etc.
+## It's A Glorified Tool
+When I was first introduced to Semantic UI, I thought it was nothing more but a glorified styler, a tool to fix up margins, add paddings, a help to arrange menu items, etc. After spending some time and working with it for a while, i noticed all the subtle benefits that comes when learning this framework. 
 
-1. Coding Conventions -  guidelines for a specific programming language that recommend programming style, practices, and methods for each aspect of a program written in that language. (wiki)
-2. Commenting - clear and succninct message that help describe a line or chunk of code.
+Altogether, I would sum up that there are two benefits that come from learning and practing semantic ui. 
 
-In terms of readibility, these two may seem insignificant but has a huge role in open-source codes.
-
-
-## INDENTING IS IMPORTANT?
-Indentation is only a small part of the list of coding standards that every programmer agrees on. To those that wonder why? It is because for the sake of readability. Just like in every book, among every chapter, page, paragraph, or sentence we see that their is a clear consise transition between every paragraph and senetence indicated by a (the end of the chapter), (indent), and (period), with spaces in between.
-
-People would hate to read a book if every page was written like this: theboyswaminthelake.
-
-Coding conventions are here so that there is a consistent form of presenting code for others to see. 
-
-Overall, coding conventions are the most trivial tools to a regular programmer, however it one of the most important tools of them all that it is even taught in the beginning of most ICS classes.
-
-As for a software engineer,  ESLint is one coding standard that keeps code in a static convention as well. In my software engineering class we apply this coding standard in our IDE, Intellij, to write Javascript files. For my first time using IntelliJ as a new enviroment, and using ESLint as a coding standard, I feel that coding conventions may have helped me once or twice when writing code, because I sometimes would often have forgotten to use variables i have created, which is where ESLint reminds the user of these kinds of errors. 
+1. It saves a lot of time. For example: it makes the pain of arrange all the details of margins less of hassle.
+2. Easy to define and implement, thus making a good portion of it easier to learn. 
 
 
-## I KNOW WHAT IT DOES...?
-As regular programmers, we've been taught how to create meaningful variable names and/or function names. However, in regards to understanding the code in general, is mostly done by comments. Comments are generally helpful for understanding what functions do, without actually reading every line of code. Commenting is both for finished and un-finished code, because hardly any software is maintained for its whole life by the original author. With finished code, it is easy for readers to quickly understand the code without spending thier time tracing their way to understand the same thing as the writer has done. With un-finished it in turn helps programmers see how previous writer's logic went off.
+## Easy to learn
 
-An example of a good commenting:
+In terms of formmatting, such as menu bars, arranging each html markup tag ("<div class....>")  can be a pain from all the details that come from developing a real website. With semantic ui, margins and formatting become less of a hassle because of the class properties within the tags. From practicing with semantic, I still have to consider what I have add in using html, but also if it is feasable to use the css file to help arrange fonts, sizes of text, and so on. Considering the full potential of semantic ui, I think that it does save time, despite only having a week to work on it. 
 
-```javascript
-function squared(array) {
-  // Creates a subarray for numbers that are perfect squares
-  const perfect = _.filter(array, function (number) { return Math.sqrt(number) === Math.ceil(Math.sqrt(number)); });
-....
-}
+## Using semantic class
+Like using class in the tags for html, it simple to implement when you just append "ui" at the beginning of the class name. 
+
+SEMANTIC UI example:
+
 ```
+<image class="ui image item" src= "image_source"></image>
 
-An example of bad commenting:
-```javascript
-function squared(array) {
-  // Uses filter function from underscore.js.
-  // Filters by taking the square root of a number and comparing it to the ceil of the square root
-  const perfect = _.filter(array, function (number) { return Math.sqrt(number) === Math.ceil(Math.sqrt(number)); });
-...
-  // Returns the perfect array and the imperfect array
-  return farray;
-}
 ```
-Bad comments are plainly just a waste of time of what the reader already knows.
+HTML example:
+```
+<img class="proj-img" src="image_source"/></image>
+```
+It is a subtle difference, but most importantly how well the class discription with semantic ui plays an important role in formatting, where the words "image" and "item" is very important. Despite the extra length of words, it is easy to understand and does not reallly have an affect with the length of time learning this framework.
 
-## The GOAL is Readability
-"Coding Conventions" readability in actuallity is about for the SAKE OF OTHERS. In comparison, coding style has shift over the years ever since the DARK AGES of C. Code back in the day has a monstrous syntax, causing everyone else but genius' to be confused by the simple look of as single line, while currently, we can are able to get a gist of hundred(s) lines of code or more in about 30 seconds or less.
 
-From adding good comments to optimizing the readability of code through coding convetions can be deemed tediuous at times; software engineers of various skill levels will have different perspectives when to use comments and how they'll choose to structure their code. 
+## Summary
 
-The best part of using coding standards today is that many developer tools eliminated trivial problems so that programmers can focus on the the more difficult problems. 
+Comparing the two together, using css to format the class of the item within it, gives more control to the writer than including it with semantic ui. Some may say it doesn't make a difference when you know a strong percentage of html and css so it generally up to the writer, and I couldn't agree more. Using the semantic ui framework has not been much of a difference between the lenghth of consideration of formatting, editing, and test. In a few words the semantic ui is best described as a little helper.
 
-Using Intellij, with the aid ESLint, overall, has helped me to program logically as well as helped me to format code without the hassle of re-reading code to see that every space and indent is perfectly matched every time, where in IntelliJ, these tasks can be done automatically with a simple click and point with the mouse. Because of coding standards, i dont need to spend my way translating every line of code go through.
