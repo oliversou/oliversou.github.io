@@ -10,10 +10,9 @@ labels:
   - Agriculture
   - Hawaii
   - Database
-summary: A database design using Microsft Access for business application
+summary: A database design using html and an oracle database
 ---
 
-Applying database information to create quick access and storage of information. 
-This database has information regarding: Pesiticides, Crops, Location, Fertilizers, Price, Harvest dates, and Planting Dates
+An ics321 project to store and access information, most specifically date of planting, location where the crop is planted, etc.
+Future implementations would include storing information regarding pesiticides, fertilizers, price for a crop.
 
-Still under progress...
