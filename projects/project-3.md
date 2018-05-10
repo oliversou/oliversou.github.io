@@ -17,7 +17,7 @@ An ics321 project to store and access information, most specifically date of pla
 Future implementations would include storing information regarding pesiticides, fertilizers, price for a crop.
 
 <center>
-  <div class="ui medium rounded images">
+  <div class="ui large rounded images">
 <img class="ui image" src="../images/ics321home.PNG">
  <img class="ui image" src="../images/ics321map.PNG">
   </div>
