@@ -16,3 +16,9 @@ summary: A database design using html and an oracle database
 An ics321 project to store and access information, most specifically date of planting, location where the crop is planted, etc.
 Future implementations would include storing information regarding pesiticides, fertilizers, price for a crop.
 
+<center>
+  <div class="ui medium rounded images">
+<img class="ui image" src="../images/ms1.PNG">
+ <img class="ui image" src="../images/ms2.PNG">
+  </div>
+</center>
