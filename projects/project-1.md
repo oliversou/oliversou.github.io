@@ -29,7 +29,7 @@ However, with this source code created by me and my group you will understand ho
 I was in charge of focusing on the front-end design of the game, also along with scheduling, and collaborating with other group mates
 that took on the back-end design.
 
-view source code: [Minesweeper](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+
 
 
 
