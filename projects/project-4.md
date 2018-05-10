@@ -1,16 +1,20 @@
 ---
 layout: project
 type: project
-image: images/ics314image.PNG
-title: Farm
-permalink: projects/farm
+image: images/lc.png
+title: Learning Comrades
+permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-18
+date: 2018-05-04
 labels:
-  - ics314
-  - web dev
-summary: A database design using html and an oracle database
+  - Javascript
+  - HTML
+  - CSS
+  - Semantic UI React
+  - ICS 314
+summary: Learning Comrades is a web application for ICS students to come together and form study sessions.
 ---
+
 
 Team members: Collin Wong, Dallas Greene, and Oliver Sou (myself)
 
