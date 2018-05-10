@@ -30,6 +30,4 @@ Some complications during this project was using github Desktop because of not o
 </div>
 </center>
 
-
-
 view source code: [Learning Comrades](https://learningcomrades.github.io/).
