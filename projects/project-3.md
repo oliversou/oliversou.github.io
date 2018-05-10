@@ -18,7 +18,7 @@ Future implementations would include storing information regarding pesiticides, 
 
 <center>
   <div class="ui medium rounded images">
-<img class="ui image" src="../images/ics321home.png">
- <img class="ui image" src="../images/ics321map.png">
+<img class="ui image" src="../images/ics321home.PNG">
+ <img class="ui image" src="../images/ics321map.PNG">
   </div>
 </center>
